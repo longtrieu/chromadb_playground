@@ -1,0 +1,116 @@
+{
+  "grocery_items": [
+    {
+      "id": "food_1",
+      "text": "fresh red apples",
+      "metadata": {
+        "source": "grocery_store",
+        "category": "food"
+      }
+    },
+    {
+      "id": "food_2",
+      "text": "organic bananas",
+      "metadata": {
+        "source": "grocery_store",
+        "category": "food"
+      }
+    },
+    {
+      "id": "food_3",
+      "text": "ripe mangoes",
+      "metadata": {
+        "source": "grocery_store",
+        "category": "food"
+      }
+    },
+    {
+      "id": "food_4",
+      "text": "whole wheat bread",
+      "metadata": {
+        "source": "grocery_store",
+        "category": "food"
+      }
+    },
+    {
+      "id": "food_5",
+      "text": "farm-fresh eggs",
+      "metadata": {
+        "source": "grocery_store",
+        "category": "food"
+      }
+    },
+    {
+      "id": "food_6",
+      "text": "natural yogurt",
+      "metadata": {
+        "source": "grocery_store",
+        "category": "food"
+      }
+    },
+    {
+      "id": "food_7",
+      "text": "frozen vegetables",
+      "metadata": {
+        "source": "grocery_store",
+        "category": "food"
+      }
+    },
+    {
+      "id": "food_8",
+      "text": "grass-fed beef",
+      "metadata": {
+        "source": "grocery_store",
+        "category": "food"
+      }
+    },
+    {
+      "id": "food_9",
+      "text": "free-range chicken",
+      "metadata": {
+        "source": "grocery_store",
+        "category": "food"
+      }
+    },
+    {
+      "id": "food_10",
+      "text": "fresh salmon fillet",
+      "metadata": {
+        "source": "grocery_store",
+        "category": "food"
+      }
+    },
+    {
+      "id": "food_11",
+      "text": "aromatic coffee beans",
+      "metadata": {
+        "source": "grocery_store",
+        "category": "food"
+      }
+    },
+    {
+      "id": "food_12",
+      "text": "pure honey",
+      "metadata": {
+        "source": "grocery_store",
+        "category": "food"
+      }
+    },
+    {
+      "id": "food_13",
+      "text": "golden apple",
+      "metadata": {
+        "source": "grocery_store",
+        "category": "food"
+      }
+    },
+    {
+      "id": "food_14",
+      "text": "red fruit",
+      "metadata": {
+        "source": "grocery_store",
+        "category": "food"
+      }
+    }
+  ]
+}
